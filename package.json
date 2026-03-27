@@ -1,0 +1,9 @@
+{
+  "name": "colorsnap",
+  "version": "1.0.0",
+  "description": "A simple utility to generate random colors in hex, RGB, and HSL formats",
+  "main": "index.js",
+  "keywords": ["color", "random", "hex", "rgb", "hsl", "palette"],
+  "author": "",
+  "license": "MIT"
+}
